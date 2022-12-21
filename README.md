@@ -3,7 +3,7 @@
 Web Scrape the entire data of buildings from URL "https://gis.vgsi.com/WorcesterMA/Search.aspx"
 
 # Used
-Python 3
+Python 3 and 
 BeautifulSoup
 
 # Result

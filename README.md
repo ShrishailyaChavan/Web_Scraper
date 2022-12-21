@@ -1,6 +1,6 @@
-# Web_Scraper
+# Web Scraper
 
-Web Scrape the entire data of buildings from URL "https://gis.vgsi.com/WorcesterMA/Search.aspx"
+Web Scrape the entire data of buildings from URL "https://gis.vgsi.com/WorcesterMA/Search.aspx". Used Multiprocessing of thread concept to crawl through the web asynchronously and fetch the data quickly.
 
 # Used
 Python 3 and 
